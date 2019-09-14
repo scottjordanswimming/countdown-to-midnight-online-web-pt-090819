@@ -1,7 +1,7 @@
 
 
-def countdown(integer)
-  while integer > 0 
-  puts 
+def countdown(number)
+  while number > 0 
+  puts ""
   
 end
