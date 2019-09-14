@@ -1,8 +1,8 @@
 
 
 def countdown(n)
-  while number > 0 
-  puts "#{number} SECOND(S)!"
+  while n > 0 
+  puts "#{n} SECOND(S)!"
   number +- 1
 end
   
